@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: This is a demo site
-      subtitle: Welcome to the E-gazette
+      title: OGP eGazette Site
+      subtitle: This is a demo site
       background: /images/hero-banner.png
       url: /contact-us/
 ---
