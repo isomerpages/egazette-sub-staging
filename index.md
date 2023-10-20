@@ -11,10 +11,4 @@ sections:
       subtitle: "Welcome to the E-gazette "
       background: /images/hero-banner.png
       url: /contact-us/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
