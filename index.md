@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: OGP eGazette Site
-      subtitle: This is a demo site
-      background: /images/hero-banner.png
+      title: This is a beta site
+      subtitle: The official publication of the Open Government Products Gazette
+      background: /images/hero banner.png
       url: /contact-us/
 ---
