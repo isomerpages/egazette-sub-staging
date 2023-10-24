@@ -1,9 +1,6 @@
-logo: /images/isomer-logo.svg
+logo: /images/ogp-logo-spacing.png
 links:
-  - title: Gazettes
-    url: /2023
-    sublinks:
-      - title: "2023"
-        url: /2023
-      - title: "2022"
-        url: /2022
+  - title: Category A
+    collection: category-a
+  - title: Category B
+    collection: category-b
