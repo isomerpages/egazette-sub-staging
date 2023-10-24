@@ -1,7 +1,4 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Gazettes
-    url: /category-a/2023
-    sublinks:
-      - title: Category A
-        url: /category-a/2023
+  - title: Category A
+    collection: category-a
