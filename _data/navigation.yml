@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Category A
     collection: category-a
+  - title: Category B
+    collection: category-b
