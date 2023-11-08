@@ -4,3 +4,5 @@ links:
     collection: category-a
   - title: Category B
     collection: category-b
+  - title: E-Gazette Search
+    url: /egazette-search
