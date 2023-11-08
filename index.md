@@ -1,14 +1,21 @@
 ---
 layout: homepage
-title: OGP E-gazette
-description: An Isomer site of the Singapore Government
-image: /images/ogp-logo-spacing.png
+title: Singapore Electronic Gazette
+description: The official publication of the Government of Singapore’s Notices
+  and Parliamentary Acts/Bills
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: This is a beta site
-      subtitle: The official publication of the Open Government Products Gazette
       background: /images/hero banner.png
-      url: /contact-us/
+      subtitle: The official publication of the Government of Singapore’s Notices and
+        Parliamentary Acts/Bills
+      title: This is a beta site
+  - infobar:
+      title: Important
+      id: infobar
+      description: A print-out from this web site is not a copy of the Gazette printed
+        by the Government Printer for the purposes of s 48 of the Interpretation
+        Act (Cap 1)
 ---

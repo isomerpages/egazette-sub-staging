@@ -1,8 +1,8 @@
-logo: /images/ogp-logo-spacing.png
+logo: /images/mcilogo_horizontal.jpg
 links:
-  - title: Category A
-    collection: category-a
-  - title: Category B
-    collection: category-b
-  - title: E-Gazette Search
-    url: /egazette-search
+  - title: Government Gazette
+    collection: government-gazette
+  - title: Supplements
+    collection: supplements
+  - title: Legislative Gazettes
+    collection: legislative-notifications

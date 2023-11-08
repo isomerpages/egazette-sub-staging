@@ -1,6 +1,6 @@
-title: OGP E-gazette
-url: https://www.open.gov.sg
-favicon: /images/ogp_favicon.png
+title: Singapore Electronic Gazette
+url: https://www.egazette.gov.sg
+favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: The official publication of the Government of Singapore’s Notices
+  and Parliamentary Acts/Bills
 permalink: none
 baseurl: ""
 exclude:
@@ -51,8 +52,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2y4pr6motfusz.amplifyapp.com
 prod: https://master.d2y4pr6motfusz.amplifyapp.com
+resources_name: resources
+shareicon: /images/isomer-logo.svg
+is_government: true
 facebook-pixel: ""
-shareicon: /images/ogp-logo-spacing.png
-is_government: false
+google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
